@@ -1,8 +1,8 @@
-# Privacy Policy – Shater
+# Privacy Policy – شاطر نت
 
 **Effective Date: 15 June 2026**
 
-Thank you for using the Shater app. This Privacy Policy explains how we collect, use, and protect your personal information when you use the Shater educational platform.
+Thank you for using the شاطر نت app. This Privacy Policy explains how we collect, use, and protect your personal information when you use the شاطر نت educational platform.
 
 ## Information We Collect
 
@@ -21,7 +21,7 @@ We may collect certain personal information that you voluntarily provide to us, 
 
 We use the collected information for purposes including:
 
-* Providing, maintaining, and improving the Shater platform
+* Providing, maintaining, and improving the شاطر نت platform
 * Managing classes, assignments, assessments, and educational content
 * Personalizing your learning experience
 * Monitoring and analyzing platform usage
@@ -53,7 +53,7 @@ You may exercise these rights through the app or by contacting us at:
 
 ## Children's Privacy
 
-Shater may be used by students under the age of 18 under the supervision of parents, guardians, schools, or educational institutions. We take appropriate measures to protect children's personal information and comply with applicable privacy regulations.
+We may be used by students under the age of 18 under the supervision of parents, guardians, schools, or educational institutions. We take appropriate measures to protect children's personal information and comply with applicable privacy regulations.
 
 ## Data Security
 
